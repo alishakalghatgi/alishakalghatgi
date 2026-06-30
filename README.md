@@ -1,31 +1,63 @@
-<h3>Hi 👋, I'm Alisha Kalghatgi</h3>
-🎓 Third Year Bachelor of Engineering (BE) Student
-📊 Aspiring Data Analyst
-💻 Passionate about Data, Python, and Technology
+<h1 align="center">👋 Hi, I'm Alisha Kalghatgi</h1>
 
-🚀 About Me
-I am currently learning Data Analytics and exploring tools used for data analysis and visualization.
-I enjoy working with Python, NumPy, Pandas, and Data Visualization libraries.
+<h3 align="center">Final Year BE (Computer Science - Data Science) Student</h3>
 
-I love building projects that help solve real-world problems using data.
+<p align="center">
+📊 Aspiring Data Analyst | 📈 Data Analytics Enthusiast | 💻 Python Developer
+</p>
 
-🛠️ Skills
-Python
-NumPy
-Pandas
-Data Visualization
-Git & GitHub
-Basic SQL
-📚 Currently Learning
-Data Analytics
-Machine Learning Basics
-Data Visualization Tools
-Advanced Python for Data Science
-📂 Projects
-Here are some of the projects I have worked on:
+---
 
-📊 Data Analysis using Python
-HASIRU TECH - AI-Based Paddy Disease Detection and Prevention System
-🔗 Connect With Me
-[LinkedIn] (https://www.linkedin.com/in/alisha-kalghatgi-8840ab389)
-⭐ Thank you for visiting my profile!
+## 👩‍💻 About Me
+
+- 🎓 Final Year Bachelor of Engineering (Computer Science - Data Science)
+- ✅ Completed Data Analytics training
+- 📊 Skilled in analyzing data and creating meaningful insights
+- 💡 Passionate about solving real-world problems using data
+- 🚀 Currently exploring Machine Learning and AI
+
+---
+
+## 🛠️ Technical Skills
+
+- 🐍 Python
+- 📊 Microsoft Excel
+- 🗄️ SQL
+- 📈 Power BI
+- 📉 Tableau
+- 🐼 NumPy
+- 📚 Pandas
+- 📊 Matplotlib
+- 📋 Data Cleaning
+- 📈 Data Visualization
+- 🔍 Exploratory Data Analysis (EDA)
+- 🌐 Git & GitHub
+
+---
+
+## 📚 Currently Learning
+
+- 🤖 Machine Learning
+- 🧠 Artificial Intelligence
+- ☁️ Cloud Technologies
+
+---
+
+## 🚀 Projects
+
+- ♻️ AI-Based Waste Classification System
+- 🌾 Crop Disease Detection using AI
+- 📊 Data Analytics Projects
+
+---
+
+## 🎯 Career Objective
+
+I am seeking opportunities as a **Data Analyst** where I can apply my analytical, problem-solving, and visualization skills to transform data into actionable business insights while continuously learning and growing.
+
+---
+
+## 📫 Connect With Me
+
+- 💼 LinkedIn: *(Add your LinkedIn profile link)*
+- 📧 Email: *(Add your email address)*
