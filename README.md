@@ -1,6 +1,6 @@
 <h1 align="center">👋 Hi, I'm Alisha Kalghatgi</h1>
 
-<h3 align="center">Final Year BE (Computer Science - Data Science) Student</h3>
+<h3 align="center">Final Year BE Computer Science (Data Science) Student</h3>
 
 <p align="center">
 📊 Aspiring Data Analyst | 📈 Data Analytics Enthusiast | 💻 Python Developer
@@ -10,7 +10,7 @@
 
 ## 👩‍💻 About Me
 
-- 🎓 Final Year Bachelor of Engineering (Computer Science - Data Science)
+- 🎓 Final Year Bachelor of Engineering Computer Science  (Data Science)
 - ✅ Completed Data Analytics training
 - 📊 Skilled in analyzing data and creating meaningful insights
 - 💡 Passionate about solving real-world problems using data
@@ -20,26 +20,26 @@
 
 ## 🛠️ Technical Skills
 
-- 🐍 Python
-- 📊 Microsoft Excel
-- 🗄️ SQL
-- 📈 Power BI
-- 📉 Tableau
-- 🐼 NumPy
-- 📚 Pandas
-- 📊 Matplotlib
-- 📋 Data Cleaning
-- 📈 Data Visualization
-- 🔍 Exploratory Data Analysis (EDA)
-- 🌐 Git & GitHub
+-  Python
+-  Microsoft Excel
+-  SQL
+-  Power BI
+-  Tableau
+-  NumPy
+-  Pandas
+-  Matplotlib
+-  Data Cleaning
+-  Data Visualization
+-  Exploratory Data Analysis (EDA)
+-  Git & GitHub
 
 ---
 
 ## 📚 Currently Learning
 
-- 🤖 Machine Learning
-- 🧠 Artificial Intelligence
-- ☁️ Cloud Technologies
+-  Machine Learning
+-  Artificial Intelligence
+
 
 ---
 
@@ -59,5 +59,5 @@ I am seeking opportunities as a **Data Analyst** where I can apply my analytical
 
 ## 📫 Connect With Me
 
-- 💼 LinkedIn: *(Add your LinkedIn profile link)*
-- 📧 Email: *(Add your email address)*
+- 💼 LinkedIn: *https://www.linkedin.com/in/alisha-kalghatgi-8840ab389*
+- 📧 Email: *alishakalghatgi26@gmail.com*
